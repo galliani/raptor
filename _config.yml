@@ -10,12 +10,12 @@ baseurl: '/'
 # Website info
 # title: ENV['SITE_TITLE']
 # description: ENV['SITE_DESCRIPTION']
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
 # production_url: ENV['PRODUCTION_URL']
 # source_url: ENV['SOURCE_URL']
+cover: assets/images/blog-cover.jpg
+logo: assets/images/Logo-white.png
+logo_dark: assets/images/kapiten-favicon.png
+favicon: assets/images/kapiten-favicon.png
 
 # Social info
 navigation: True # show the navbar links
