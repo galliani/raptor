@@ -12,6 +12,14 @@ baseurl: '/'
 # description: ENV['SITE_DESCRIPTION']
 # production_url: ENV['PRODUCTION_URL']
 # source_url: ENV['SOURCE_URL']
+
+## STATICMAN
+# Staticman comments (see staticman.yml for configuration).
+# Name of repository, for use with Staticman
+# repository: "galliani/raptor" # SET IN environment_variables.rb
+staticman:
+  branch: "master"
+
 cover: assets/images/blog-cover.jpg
 logo: assets/images/Logo-white.png
 logo_dark: assets/images/kapiten-favicon.png

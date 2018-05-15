@@ -12,6 +12,7 @@ module Jekyll
       site.config['description']    = ENV['SITE_DESCRIPTION']
       site.config['production_url'] = ENV['PRODUCTION_URL']
       site.config['source_url']     = ENV['SOURCE_URL']
+      site.config['repository']     = ENV['SOURCE_REPO']
 
       # sensitives
       site.config['google_analytics'] = ENV['GOOG_ANALYTICS_ID']
