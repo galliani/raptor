@@ -16,6 +16,8 @@ module Jekyll
 
       # sensitives
       site.config['google_analytics'] = ENV['GOOG_ANALYTICS_ID']
+      site.config['heap_analytics']   = ENV['HEAP_ANALYTICS_ID']
+
       site.config['twitter']          = ENV['TWTR_HANDLER'] # replace by your username
       site.config['facebook']         = ENV['FB_USERNAME'] # replace by your username      
     end
