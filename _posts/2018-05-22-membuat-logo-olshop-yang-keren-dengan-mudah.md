@@ -182,8 +182,10 @@ Logo akan otomatis di download ke komputer/laptop/gadget-mu dalam bentuk file .p
 Selesai sudah panduan untuk membuat logo untuk online shop  ini. Cukup mudah, bukan? Terlebih lagi proses ini tidak memerlukan biaya sama sekali dan hanya memakan waktu kurang lebih 30 menit. Apabila kamu ada pertanyaan atau kesulitan, jangan sungkan untuk bertanya di bagian komentar di bawah ini.
 
 
-============
+---
+
 **Catatan**
+
 i) Gambar tentang kelompok-kelompok *font* di ambil dari [sini](https://visual.ly/community/infographic/business/psychology-fonts). Kredit dan apresiasi bagi pembuatnya, Eva Markova.
 ii) Informasi mengenai dampak psikologis warna diambil dari [sini](https://99designs.com/blog/tips/logo-color-meanings/) dan [sini](https://visual.ly/community/infographic/other/color-psychology-logo-design). Semua kredit dan hak cipta dimiliki oleh pembuat dan narasumber.
 
