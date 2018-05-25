@@ -6,7 +6,7 @@ language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # asset_url: /panduan-olshop/
-baseurl: /panduan-olshop/
+# baseurl: /panduan-olshop/
 
 # Website info
 # title: ENV['SITE_TITLE']
