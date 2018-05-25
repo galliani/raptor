@@ -1,6 +1,5 @@
 # Plugin to add environment variables to the `site` object in Liquid templates
 require 'dotenv'
-require 'dotenv/tasks'
 
 module Jekyll
   class EnvironmentVariablesGenerator < Generator
