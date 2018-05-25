@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ''
+baseurl: '/panduan-olshop/'
 
 # Website info
 # title: ENV['SITE_TITLE']
@@ -42,8 +42,8 @@ subscribers: True # you need to connect an external service for this to work,
 
 # Permalinks
 permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
+permalink: /author/:author
+permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
