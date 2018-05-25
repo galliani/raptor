@@ -6,7 +6,8 @@ module Jekyll
     priority :highest
     
     def generate(site)
-      site.config['env'] = Dotenv.load
+      Dotenv.overload
+      # site.config['env'] = Dotenv.overload
 
       site.config['title']          = ENV['SITE_TITLE']
       site.config['description']    = ENV['SITE_DESCRIPTION']
