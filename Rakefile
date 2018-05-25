@@ -9,6 +9,7 @@ require 'rake'
 require 'date'
 require 'yaml'
 
+require 'dotenv/load'
 require 'dotenv/tasks'
 Dotenv.overload
 
