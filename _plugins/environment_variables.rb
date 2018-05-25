@@ -10,8 +10,8 @@ module Jekyll
 
       site.config['title']          = ENV['SITE_TITLE']
       site.config['description']    = ENV['SITE_DESCRIPTION']
-      site.config['asset_url']      = ENV['ASSET_URL']
-      site.config['base_url']       = ENV['BASE_URL']
+      site.config['asset_url']      = 'http://kapiten.id/'
+      site.config['base_url']       = 'http://kapiten.id/'
       site.config['production_url'] = ENV['PRODUCTION_URL']
       site.config['source_url']     = ENV['SOURCE_URL']
       site.config['repository']     = ENV['SOURCE_REPO']
