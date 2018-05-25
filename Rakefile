@@ -29,7 +29,28 @@ namespace :site do
   desc "Generate the site"
   task :build do
     check_destination
-    sh "bundle exec jekyll build"
+
+    config = Jekyll.configuration({
+      title: ENV['SITE_TITLE'],
+      description: ENV['SITE_DESCRIPTION'],
+      asset_url: ENV['ASSET_URL'],
+      base_url: ENV['BASE_URL'],
+      production_url: ENV['PRODUCTION_URL'],
+      source_url: ENV['SOURCE_URL'],
+      repository: ENV['SOURCE_REPO'],
+
+      # sensitives
+      google_analytics: ENV['GOOG_ANALYTICS_ID'],
+      heap_analytics: ENV['HEAP_ANALYTICS_ID'],
+
+      twitter: ENV['TWTR_HANDLER'],
+      facebook: ENV['FB_USERNAME']
+    })
+    site = Jekyll::Site.new(config)
+
+    Jekyll::Commands::Build.build(site, config)
+
+    # sh "bundle exec jekyll build"
   end
 
   desc "Generate the site and serve locally"
