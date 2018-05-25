@@ -5,17 +5,17 @@ galih:
   url_full: http://hannah.wf/
   url: hannah.wf
   bio:  Team lead Kapiten.id dan Software Developer di Pintaria yang ingin membantu lebih banyak orang yang sukses berjualan di dunia online.
-  picture: assets/images/galih.png
+  picture: /assets/images/galih.png
   facebook: galih0muhammad
   twitter: galihm
-  cover: assets/images/galih-cover.jpeg
+  cover: /assets/images/galih-cover.jpeg
 ghost:
   username: ghost
   name: Ghost
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
   bio: The professional publishing platform
-  picture: assets/images/ghost.png
+  picture: /assets/images/ghost.png
   facebook: ghost
   twitter: tryghost
   cover: False
@@ -26,10 +26,10 @@ hannah:
   url_full: http://hannah.wf/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+  picture: /assets/images/hannah.jpg
   facebook: False
   twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  cover: /assets/images/hannah-cover.jpg
 john:
   username: john
   name: John O'Nolan
@@ -37,7 +37,7 @@ john:
   url_full: http://john.onolan.org/
   url: john.onolan.org
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
+  picture: /assets/images/john.jpg
   facebook: False
   twitter: False
   cover: False
