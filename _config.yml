@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ''
+baseurl: /panduan-olshop/
 
 # Website info
 title: Panduan olshop Kapiten
