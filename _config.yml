@@ -6,7 +6,7 @@ language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /panduan-olshop/
-destination: /panduan-olshop/
+destination: /opt/build/repo/panduan-olshop/
 
 # Website info
 title: Panduan olshop Kapiten
