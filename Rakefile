@@ -9,9 +9,9 @@ require 'rake'
 require 'date'
 require 'yaml'
 
-require 'dotenv/load'
-require 'dotenv/tasks'
-Dotenv.overload
+# require 'dotenv/load'
+# require 'dotenv/tasks'
+# Dotenv.overload
 
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]

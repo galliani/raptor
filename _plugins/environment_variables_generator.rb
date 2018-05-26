@@ -7,7 +7,7 @@ module Jekyll
     
     def generate(site)
       Dotenv.overload
-      # site.config['env'] = Dotenv.overload
+      site.config['env'] = Dotenv.overload
 
       site.config['title']          = ENV['SITE_TITLE']
       site.config['description']    = ENV['SITE_DESCRIPTION']

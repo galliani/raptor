@@ -5,8 +5,8 @@ paginate: 100 # it will paginate after this number
 language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-# asset_url: /panduan-olshop/
-# baseurl: /panduan-olshop/
+asset_url: /
+baseurl: /panduan-olshop/
 
 # Website info
 # title: ENV['SITE_TITLE']
