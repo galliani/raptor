@@ -5,12 +5,11 @@ paginate: 100 # it will paginate after this number
 language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-# asseturl: /
-# baseurl: /panduan-olshop/
+baseurl: /panduan-olshop/
 
 # Website info
-# title: ENV['SITE_TITLE']
-# description: ENV['SITE_DESCRIPTION']
+title: Panduan olshop Kapiten
+description: Kumpulan panduan dan tips untuk membangun usaha online
 # production_url: ENV['PRODUCTION_URL']
 # source_url: ENV['SOURCE_URL']
 

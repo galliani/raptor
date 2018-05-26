@@ -9,10 +9,7 @@ module Jekyll
       Dotenv.overload
       site.config['env'] = Dotenv.overload
 
-      site.config['title']          = ENV['SITE_TITLE']
-      site.config['description']    = ENV['SITE_DESCRIPTION']
       site.config['asseturl']       = ENV['ASSET_URL']
-      site.config['baseurl']        = ENV['BASE_URL']
       site.config['production_url'] = ENV['PRODUCTION_URL']
       site.config['source_url']     = ENV['SOURCE_URL']
       site.config['repository']     = ENV['SOURCE_REPO']

@@ -1,3 +1,0 @@
-# Production context: All deploys from the Production branch set in your site's deploy settings will inherit these settings.
-[context.production]
-  environment = { ASSET_URL = "", BASE_URL = "http://kapiten.id/panduan-olshop" } 
