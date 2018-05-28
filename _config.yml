@@ -6,7 +6,6 @@ language: 'id'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ''
-
 # Website info
 title: Panduan olshop Kapiten
 description: Kumpulan panduan dan tips untuk membangun usaha online
@@ -24,6 +23,18 @@ cover: /assets/images/blog-cover.jpg
 logo: /assets/images/Logo-white.png
 logo_dark: /assets/images/kapiten-favicon.png
 favicon: /assets/images/kapiten-favicon.png
+
+collections:
+  posts:
+    output: true
+    permalink: /panduan-olshop/:title.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
 
 # Social info
 navigation: True # show the navbar links
@@ -102,3 +113,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+  - netlify.toml
