@@ -10,6 +10,7 @@ class: post-template
 subclass: 'post tag-fables'
 logo: assets/images/ghost.png
 author: galih
+custom_subsribe_form: "true"
 ---
 
 
@@ -181,6 +182,12 @@ Logo akan otomatis di download ke komputer/laptop/gadget-mu dalam bentuk file .p
 
 Selesai sudah panduan untuk membuat logo untuk online shop  ini. Cukup mudah, bukan? Terlebih lagi proses ini tidak memerlukan biaya sama sekali dan hanya memakan waktu kurang lebih 30 menit. Apabila kamu ada pertanyaan atau kesulitan, jangan sungkan untuk bertanya di bagian komentar di bawah ini.
 
+
+<section class="subscribe-form">
+    <h3 class="subscribe-form-title">Ingin bantuan desain logo gratis?</h3>
+    <p>Masukkan alamat email kamu di kolom isian di bawah dan kami akan kontak kamu!</p>
+    {% include subscribe-form.html %}
+</section>
 
 ---
 
