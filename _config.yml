@@ -8,7 +8,7 @@ language: 'id'
 baseurl: ''
 # Website info
 title: Panduan olshop Kapiten
-description: Kumpulan panduan dan tips untuk membangun usaha online
+description: Kumpulan panduan dan tips untuk membangun bisnis jual-beli online
 
 ## STATICMAN
 # Staticman comments (see staticman.yml for configuration).
@@ -18,7 +18,7 @@ staticman:
   branch: "master"
 
 cover: /assets/images/blog-cover.jpg
-logo: /assets/images/Logo-white.png
+logo: /assets/images/logo-only-white.png
 logo_dark: /assets/images/kapiten-favicon.png
 favicon: /assets/images/kapiten-favicon.png
 
