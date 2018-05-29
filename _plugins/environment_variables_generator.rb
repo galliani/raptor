@@ -15,6 +15,7 @@ module Jekyll
       site.config['repository']     = ENV['SOURCE_REPO']
 
       # sensitives
+      site.config['google_webmaster_code'] = ENV['GOOG_WEBMASTER_CODE']
       site.config['google_analytics'] = ENV['GOOG_ANALYTICS_ID']
       site.config['heap_analytics']   = ENV['HEAP_ANALYTICS_ID']
 
