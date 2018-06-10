@@ -36,14 +36,14 @@ Untuk membuat logo tulisan yang keren dari nama tokomu, maka cukup ada dua hal y
 
 
 
-# Beragam Jenis Font dan Dampaknya
+## Beragam Jenis Font dan Dampaknya
 
 Bagi kamu yang sudah terbiasa memakai Microsoft Word, tentunya kamu sudah familiar dengan jenis *font* (ketikan). Tetapi pilihan *font* yang ditawarkan di MS Word sangatlah terbatas dan sudah cukup usang. Sebetulnya jenis font ada sangat banyak dan terus bertambah setiap tahunnya, sehingga sebetulnya ada 1 profesi khusus yang pekerjaannya adalah membuat jenis *font* baru, dinamakan “*Type Designer”.* 
 
 Walaupun terkesan remeh, tetapi jenis *font* mempunyai dampak psikologis yang besar mengingat sekarang ini kita lebih sering membaca ketikan komputer ketimbang tulisan tangan. Ada 5 kelompok jenis *font* yang masing-masing memiliki citra psikologis terhadap pembacanya.
 
 
-## 1. **Serif**   
+### **1.** **Serif**   
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FBF227E54A9D1220387C0863E22A16F33A75DA787FF4EE0FEED210E3340EDA34_1526107899675_serif-style.png)
 
 
@@ -52,14 +52,14 @@ Walaupun terkesan remeh, tetapi jenis *font* mempunyai dampak psikologis yang be
 
 
 
-## **2.** **Sans Serif**   
+### **2.** **Sans Serif**   
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FBF227E54A9D1220387C0863E22A16F33A75DA787FF4EE0FEED210E3340EDA34_1526108631153_sans-serif+style.png)
 
 
 Apabila *font* Serif memberi kesan familiar namun klasik dan terkesan tradisional, *font* Sans Serif memberi kesan familiar dicampur dengan gaya modern. Cocok untuk merek yang menjual barang-barang yang berisiko untuk dibeli secara online, seperti elektronik.
 
 
-## **3.** **Slab Serif**
+### **3.** **Slab Serif**
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FBF227E54A9D1220387C0863E22A16F33A75DA787FF4EE0FEED210E3340EDA34_1526108746764_slab-serif+style.png)
 
 
@@ -67,7 +67,7 @@ Berbeda dengan dua jenis “Serif” sebelumnya, *font* bergaya Slab Serif bertu
 
 
 
-## **4. Script**
+### **4. Script**
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FBF227E54A9D1220387C0863E22A16F33A75DA787FF4EE0FEED210E3340EDA34_1526108756100_script-style+.png)
 
 
@@ -75,7 +75,7 @@ Kelompok *font* ini sangat unik dan berbeda 180 derajat dengan 3 kelompok *font*
 
 
 
-## **5.** **Modern**
+### **5.** **Modern**
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FBF227E54A9D1220387C0863E22A16F33A75DA787FF4EE0FEED210E3340EDA34_1526108763371_modern+style.png)
 
 
@@ -85,7 +85,7 @@ Kelompok *font* “Modern” akan memberikan kesan ekslusif, *stylish,* dan cerd
 
 
 
-# Warna yang cocok untuk logomu
+## Warna yang cocok untuk logomu
 
 93 persen responden survey mengatakan bahwa mereka mempertimbangkan kesan penampilan dalam membeli suatu produk. Mengingat bahwa produkmu besar kemungkinan juga dijual di toko online lainnya, maka calon pembeli akan memperhatikan logomu sebagai penentu apakah mereka akan membeli produk yang kamu jual atau produk yang sama yang dijual oleh pesaingmu. Ada 9 warna dasar yang dapat kamu pilih, beserta kesan yang ditimbulkannya:
 
@@ -111,12 +111,12 @@ Kelompok *font* “Modern” akan memberikan kesan ekslusif, *stylish,* dan cerd
 
 
 
-# Jadi, mana yang sebaiknya kamu pilih?
+## Jadi, mana yang sebaiknya kamu pilih?
 
 Ini semua tergantung dari calon pelanggan yang kamu targetkan dan juga citra yang ingin kamu bangun untuk toko online-mu. Kalau kamu menjual pakaian pria, yang kemungkinan besar target pelangganmu adalah laki-laki dewasa, maka kurang tepat kalau kami memilih untuk mendesain logomu dengan font style “Script” dan warna merah muda. Font “Slab Serif” dan warna coklat agaknya pilihan yang lebih tepat.
 
 
-# Cara membuat logo idamanmu
+## Cara membuat logo idamanmu
 
 Nah, sesudah kita membahas teori-teori yang relevan, mari kita langsung ke prakteknya. Ada beberapa situs yang dapat membantu kita mendesain logo dalam bentuk tulisan, tetapi yang paling mudah digunakan adalah [Canva](https://canva.com). 
 

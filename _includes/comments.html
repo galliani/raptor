@@ -33,25 +33,15 @@
 {% endif %}
 
 <!-- Comment form -->
-<h2>Sampaikan saran, kritik, atau pertanyaan</h2><br>
-<form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-  <input name="options[redirect]" type="hidden" value="https://idiologos.netlify.com">
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <div>
-    <legend>Email </legend>
-    <input name="fields[email]" type="email" required>
-  </div>
-  <div>
-  <div>
-    <legend>Nama</legend>
-    <input name="fields[name]" type="text">
-  </div>
-    <legend>Isi Pesan</legend>
-    <textarea style="width:100%" name="fields[message]" rows="6"></textarea>
-  </div>
-  
-  <div>
-    <!-- <legend><em>Comments will appear after moderation.</em></legend> -->
-    <button type="submit" class="button"><span>Kirim Komentar</span></button>
-  </div>
-</form>
+<div align="center" id="comment-form-wrapper">
+    <h2>Sampaikan saran, kritik, atau pertanyaan</h2><br>
+    <form id="comment-form" method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+        
+        <input name="fields[name]" type="text" placeholder="Namamu" required>
+        <input name="fields[email]" type="email"  placeholder="Alamat emailmu">
+        <textarea style="width:100%" name="fields[message]" rows="6" type="text" placeholder="Apa yang ingin kamu sampaikan?"></textarea>
+
+        <input id="submit" type="submit" value="Kirim!">
+
+    </form>
+</div>
