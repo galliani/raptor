@@ -57,8 +57,8 @@ into the {body} of the default.hbs template -->
             {% else %}
                 {% if site.subscribers %}
                     <section class="subscribe-form">
-                        <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                        <p>Get the latest posts delivered right to your inbox</p>
+                        <h3 class="subscribe-form-title">Berlangganan {{ site.title }}</h3>
+                        <p>Dapatkan pesan ketika ada postingan terbaru dan beberapa konten khusus pelanggan via email.</p>
                         {% include subscribe-form.html placeholder="youremail@example.com" %}
                     </section>
                 {% endif %}
@@ -80,6 +80,21 @@ into the {body} of the default.hbs template -->
                                 {% else %}
                                     <p>Read <a href="{{ site.url }}author/{{ page.author }}">more posts</a> by this author.</p>
                                 {% endif %}
+
+                                <div class="author-social-links">
+                                    {% if author[1].url %}
+                                        <a class="menu-link" href="{{ author[1].url_full }}" target="_blank" rel="noopener"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                                    {% endif %}
+                                    {% if author[1].twitter %}
+                                        <a class="menu-link" href="https://twitter.com/{{ author[1].twitter }}" target="_blank" rel="noopener"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    {% endif %}
+                                    {% if author[1].facebook %}
+                                        <a class="menu-link" href="https://facebook.com/{{ author[1].facebook }}" target="_blank" rel="noopener"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    {% endif %}
+                                    {% if author[1].linkedin %}
+                                        <a class="menu-link" href="https://linkedin.com/{{ author[1].linkedin }}" target="_blank" rel="noopener"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                    {% endif %}                                                        
+                                </div>
                             </section>
                         </section>
                         <div class="post-full-footer-right">

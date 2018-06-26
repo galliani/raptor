@@ -2072,3 +2072,12 @@ Usage (In Ghost editor):
 #comment-form #submit:hover {
   color: #e2dedb;
 }
+
+
+/* Author social-links on Post.html */
+.author-social-links {
+    margin-top: 15px;
+}
+.author-social-links .menu-link {
+    margin-right: 7px;
+}

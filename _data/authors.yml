@@ -2,13 +2,15 @@ galih:
   username: galih
   name: Galih Muhammad
   location: Jakarta
-  url_full: http://hannah.wf/
-  url: hannah.wf
+  url_full: https://kapiten.id/
+  url: kapiten.id
   bio:  Team lead Kapiten.id dan Software Developer di Pintaria yang ingin membantu lebih banyak orang yang sukses berjualan di dunia online.
   picture: /assets/images/galih.png
   facebook: galih0muhammad
   twitter: galihm
+  linkedin: in/galihmuhammad
   cover: /assets/images/galih-cover.jpeg
+
 # ghost:
 #   username: ghost
 #   name: Ghost
