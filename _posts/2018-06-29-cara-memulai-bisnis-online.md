@@ -4,8 +4,8 @@ current: post
 cover: assets/images/pexels-photo-583846.jpeg
 navigation: True
 title: Memilih Cara Memulai Bisnis Online Yang Tepat Untukmu
-date: 2018-05-21 10:18:00
-tags: [instagram, marketing]
+date: 2018-06-25 10:18:00
+tags: [memulai]
 class: post-template
 subclass: 'post tag-fables'
 logo: assets/images/ghost.png
