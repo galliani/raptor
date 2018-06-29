@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/instagram-social-media-web-pages-internet-163141.jpeg
 navigation: True
-title: Bingung Cara Pasang Iklan di Instagram?
+title: Panduan Lengkap Memasang Iklan di Instagram Untuk Meningkatkan Penjualan Olshop Milikmu
 date: 2018-05-21 10:18:00
 tags: [instagram, marketing]
 class: post-template

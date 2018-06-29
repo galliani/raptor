@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/pexels-photo-57690-logo-design.jpeg
 navigation: True
-title: Cara Membuat Logo Online Shop Sendiri
+title: Panduan Membuat Logo Online Shop Yang Keren Dengan Mudah dan Gratis
 date: 2018-05-21 10:18:00
 tags: [branding]
 class: post-template

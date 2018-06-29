@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/pexels-photo-583846.jpeg
 navigation: True
-title: Memilih Cara Memulai Bisnis Online Yang Tepat Untukmu
+title: Memilih Cara Membuka Olshop Yang Tepat Untukmu
 date: 2018-06-25 10:18:00
 tags: [memulai]
 class: post-template
