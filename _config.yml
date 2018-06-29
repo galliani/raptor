@@ -41,6 +41,14 @@ defaults:
       type: "authors"
     values:
       layout: author
+  - scope:
+      path: "about"
+    values:
+      sitemap: false
+  - scope:
+      path: "admin/index.html"
+    values:
+      sitemap: false      
 
 # Social info
 navigation: True # show the navbar links
